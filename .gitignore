@@ -1,0 +1,9 @@
+# Mac specific files
+**/.DS_Store
+
+# Binary files
+*/out
+
+# VSCode
+.vscode/
+
